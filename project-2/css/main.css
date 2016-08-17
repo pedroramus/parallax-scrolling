@@ -16,6 +16,10 @@
     z-index: 200;
 }
 
+#images img {
+    padding-top: 50px;
+}
+
 #img-moon {
     position: absolute;
     top: 1500px;
@@ -44,6 +48,7 @@
 }
 
 #content article {
+    padding-top: 50px;
     width: 350px;
 }
 
@@ -70,6 +75,7 @@
 #saturn {
     position: absolute;
     top: 8775px;
+    padding-bottom: 800px;
 }
 
 /***************************EARTH**********************************/
